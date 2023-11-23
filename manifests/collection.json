@@ -1,0 +1,13 @@
+{
+  "id" : "https://arilongo.github.io/my-manifest/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in arilongo/my-manifest project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://arilongo.github.io/my-manifest/manifests/mymanifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
